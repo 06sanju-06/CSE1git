@@ -1,2 +1,2 @@
 # CSE1git
- this the read me repository
+ I am sanjay of CSE
