@@ -1,2 +1,7 @@
-# CSE1git
- I am sanjay of CSE
+class first
+{
+ public static void main(String args[])
+ {
+  System.out.print("Welcome to GIT");
+  }
+}
